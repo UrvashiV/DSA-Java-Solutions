@@ -1,32 +1,65 @@
-# 🚀 DSA Practice
+# 🚀 DSA Java Solutions
 
-This repository contains my solutions to Data Structures & Algorithms problems from:
-
-* LeetCode
-* GeeksforGeeks (GFG)
+This repository contains my solutions to Data Structures and Algorithms (DSA) problems in Java, organized by platform and topic.
 
 ---
 
-## 📂 Structure
+## 📖 About
 
-* LeetCode → Problems solved from LeetCode
-* GFG → Problems solved from GFG
+* Topic-wise DSA problem solving
+* Each problem includes:
+
+  * Problem link
+  * Dry run / explanation
+  * Well-commented Java code
+* Focused on building strong problem-solving skills for coding interviews
+
+---
+
+## 📌 Platforms Covered
+
+* 🟡 LeetCode
+* 🟢 GeeksforGeeks (GFG)
 
 ---
 
 ## 🧠 Topics Covered
 
-* Arrays
-* Strings
-  
+* Arrays (currently in progress)
+* Strings (coming soon)
+* Linked List
+* Stack & Queue
+* Trees
+* Graphs
+* Dynamic Programming
+
+---
+
+## 💡 Approach
+
+* Solutions are implemented in Java
+* Emphasis on clean, readable, and optimized code
+* Each solution includes:
+
+  * Problem name and link
+  * Approach / logic
+  * Time and space complexity
+
 ---
 
 ## 🎯 Goal
 
-* Improve problem-solving skills
-* Prepare for coding interviews
-* Maintain consistency in DSA
+* Strengthen problem-solving skills
+* Build a strong DSA foundation
+* Prepare for technical interviews
+* Maintain consistency in daily practice
 
 ---
 
-⭐ If you like this repo, feel free to star it!
+## ⚡ Note
+
+This repository is actively updated as part of my daily DSA practice journey.
+
+---
+
+⭐ If you find this repository helpful, feel free to give it a star!
