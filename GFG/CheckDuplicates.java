@@ -6,9 +6,9 @@
 // it means duplicates exist.
 
 
+
 // Dry Run:
 // Input: [1, 2, 3, 1]
-
 // Step 1: n = 4
 // Step 2: set = {1, 2, 3}
 // Step 3: set.size() = 3 < n (4)
