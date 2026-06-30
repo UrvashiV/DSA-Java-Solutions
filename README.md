@@ -63,3 +63,27 @@ This repository is actively updated as part of my daily DSA practice journey.
 ---
 
 ⭐ If you find this repository helpful, feel free to give it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## String
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Sorting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+<!---LeetCode Topics End-->
