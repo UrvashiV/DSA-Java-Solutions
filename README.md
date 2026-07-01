@@ -70,6 +70,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -79,11 +80,13 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -93,4 +96,5 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 <!---LeetCode Topics End-->
