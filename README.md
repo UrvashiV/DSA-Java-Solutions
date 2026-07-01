@@ -69,6 +69,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 ## Hash Table
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -77,13 +78,19 @@ This repository is actively updated as part of my daily DSA practice journey.
 ## Greedy
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Array
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
