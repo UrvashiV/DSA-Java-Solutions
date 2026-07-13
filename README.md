@@ -74,6 +74,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2336-smallest-number-in-infinite-set](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -114,4 +115,16 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0781-rabbits-in-forest) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
