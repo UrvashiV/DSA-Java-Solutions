@@ -81,6 +81,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
+| [1768-merge-strings-alternately](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1768-merge-strings-alternately) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -133,4 +134,8 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
