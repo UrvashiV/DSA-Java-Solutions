@@ -76,6 +76,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2336-smallest-number-in-infinite-set](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2364-count-number-of-bad-pairs](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2364-count-number-of-bad-pairs) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -97,6 +98,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | ------- |
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -113,6 +115,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2364-count-number-of-bad-pairs](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2364-count-number-of-bad-pairs) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Trie
 |  |
