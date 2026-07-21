@@ -74,6 +74,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2336-smallest-number-in-infinite-set](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2364-count-number-of-bad-pairs](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -85,6 +86,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -92,6 +94,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0781-rabbits-in-forest](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -104,6 +107,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2364-count-number-of-bad-pairs](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -114,6 +118,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2364-count-number-of-bad-pairs](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
