@@ -83,6 +83,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -151,5 +152,6 @@ This repository is actively updated as part of my daily DSA practice journey.
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
