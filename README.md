@@ -117,6 +117,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
 | [0781-rabbits-in-forest](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -154,4 +155,12 @@ This repository is actively updated as part of my daily DSA practice journey.
 | ------- |
 | [0125-valid-palindrome](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1768-merge-strings-alternately) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0898-bitwise-ors-of-subarrays](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0898-bitwise-ors-of-subarrays](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
