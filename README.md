@@ -74,6 +74,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2336-smallest-number-in-infinite-set](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2364-count-number-of-bad-pairs](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2364-count-number-of-bad-pairs) |
@@ -108,6 +109,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2364-count-number-of-bad-pairs](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -133,6 +135,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | ------- |
 | [0781-rabbits-in-forest](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2364-count-number-of-bad-pairs) |
 ## Design
 |  |
@@ -163,4 +166,12 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0898-bitwise-ors-of-subarrays](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+## Enumeration
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
