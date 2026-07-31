@@ -84,6 +84,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -174,4 +175,8 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
