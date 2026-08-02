@@ -90,6 +90,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [1071-greatest-common-divisor-of-strings](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2390-removing-stars-from-a-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -153,6 +154,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
@@ -179,4 +181,5 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
