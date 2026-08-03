@@ -87,6 +87,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -181,5 +182,6 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
