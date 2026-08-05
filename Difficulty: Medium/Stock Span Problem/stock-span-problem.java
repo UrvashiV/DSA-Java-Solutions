@@ -2,28 +2,25 @@ class Solution {
 	
 	public ArrayList<Integer> calculateSpan(int[] arr) {
 		// code here
-		Stack<Integer> stack = new Stack<>();
-		ArrayList<Integer> ar = new ArrayList<>();
+		Stack<ArrayList<Integer>> stack = new Stack<>();
+		ArrayList<Integer> result = new ArrayList<>();
 		
-		for (int i = 0; i<arr.length; i++) {
-			while (!stack.empty() && arr[stack.peek()] <= arr[i]) {
+		for (int i : arr) {
+			
+			int span = 1;
+			while (!stack.empty() && stack.peek().get(0) <= i) {
+				span = span + stack.peek().get(1);
 				stack.pop();
 			}
 			
-			int span;
-			
-			if (stack.empty()) {
-				span = i + 1;
-			}
-			else {
-				span = i - stack.peek();
-			}
-			
+			ArrayList<Integer> ar = new ArrayList<>();
+			ar.add(i);
 			ar.add(span);
+			stack.push(ar);
+			result.add(span);
 			
-			stack.push(i);
 		}
 		
-		return ar;
+		return result;
 	}
 }
