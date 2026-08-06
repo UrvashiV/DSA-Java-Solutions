@@ -120,6 +120,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
+| [0739-daily-temperatures](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0846-hand-of-straights) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -183,12 +184,14 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
