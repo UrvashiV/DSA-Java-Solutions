@@ -144,6 +144,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
 | [2336-smallest-number-in-infinite-set](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
@@ -184,6 +185,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -197,4 +199,8 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
