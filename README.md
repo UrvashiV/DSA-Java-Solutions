@@ -126,6 +126,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0898-bitwise-ors-of-subarrays](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0946-validate-stack-sequences](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1441-build-an-array-with-stack-operations](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2364-count-number-of-bad-pairs](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2364-count-number-of-bad-pairs) |
@@ -160,6 +161,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1441-build-an-array-with-stack-operations](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
@@ -192,6 +194,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0901-online-stock-span](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
