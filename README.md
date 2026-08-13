@@ -86,6 +86,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | ------- |
 | [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -139,6 +140,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0781-rabbits-in-forest](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -189,6 +191,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0901-online-stock-span) |
@@ -209,4 +212,8 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
