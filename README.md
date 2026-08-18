@@ -120,6 +120,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
 | [0739-daily-temperatures](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
 | [0781-rabbits-in-forest](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0781-rabbits-in-forest) |
@@ -141,6 +142,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0781-rabbits-in-forest](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0781-rabbits-in-forest) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -193,6 +195,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0739-daily-temperatures) |
