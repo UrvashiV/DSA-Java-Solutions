@@ -90,6 +90,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2390-removing-stars-from-a-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -203,6 +204,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 | [0907-sum-of-subarray-minimums](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
