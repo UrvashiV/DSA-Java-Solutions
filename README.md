@@ -85,6 +85,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0648-replace-words](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0648-replace-words) |
@@ -198,6 +199,7 @@ This repository is actively updated as part of my daily DSA practice journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/UrvashiV/DSA-Java-Solutions/tree/master/0232-implement-queue-using-stacks) |
